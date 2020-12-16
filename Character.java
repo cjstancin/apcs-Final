@@ -92,8 +92,8 @@ public class Character {
 
     public int getStrength(){return this.strength;}
     public int getToughness(){return this.toughness;}
-    public int getIntelligence(){return this.intelligence;}
     public int getMagic(){return this.magic;}
+    public int getIntelligence(){return this.intelligence;}
     public int getInfluence(){return this.influence;}
 
     public String toString() {
